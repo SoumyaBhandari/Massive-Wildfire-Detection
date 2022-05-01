@@ -1,1 +1,0 @@
-# Massive-Wildfire-Detection
